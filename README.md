@@ -1,2 +1,2 @@
-# Business-Requirements Document
-# Design Architecture Document
+# Business Requirements Document.
+# Design Architecture Document.
